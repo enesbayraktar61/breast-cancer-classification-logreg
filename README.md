@@ -76,16 +76,6 @@ breast_cancer_classification/
 
 ---
 
-## How to Run Locally
-
-```bash
-git clone https://github.com/enesbayraktar61/breast-cancer-classification-logreg.git
-cd breast-cancer-classification-logreg
-pip install -r requirements.txt
-streamlit run app.py
-
----
-
 Conclusion
 
 This project demonstrates a complete end-to-end binary classification workflow,
@@ -104,3 +94,15 @@ Hyperparameter tuning
 Comparison with SVM and Gradient Boosting
 
 Model interpretability techniques (e.g. SHAP or coefficient analysis)
+
+---
+
+## How to Run Locally
+
+```bash
+git clone https://github.com/enesbayraktar61/breast-cancer-classification-logreg.git
+cd breast-cancer-classification-logreg
+pip install -r requirements.txt
+streamlit run app.py
+
+---
